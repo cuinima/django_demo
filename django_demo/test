@@ -1,0 +1,11 @@
+get请求
+http://127.0.0.1:8000/get_result?q=%E4%BD%A0%E5%A5%BD
+http协议
+域名 www.baidu.com (本地地址 127.0.0.1=localhost)
+8000是端口
+/get_result请求方法名称
+get请求参数用?开始 q是参数名 你好是参数值
+参数值在url中是可见的 但是url长度有限制
+post请求
+http://127.0.0.1:8000/post
+参数在请求体里面 请求数据数据量大 url没有长度限制

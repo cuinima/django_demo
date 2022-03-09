@@ -1,0 +1,6 @@
+debug 启动django
+https://www.cnblogs.com/lilinpging/p/7894873.html
+1接口测试 
+通过python代码完成 post get请求
+request 英文请求
+
